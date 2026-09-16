@@ -1,9 +1,6 @@
 # Hi — I'm Gaurang Kodwani 👋
 
-> a python backend developer
-
-[![Readme Stats](https://github-readme-stats.vercel.app/api?username=gaurangkodwani-svg&show_icons=true&theme=default)](https://github.com/gaurangkodwani-svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkodwani-svg&layout=compact&theme=default)](https://github.com/gaurangkodwani-svg)
+> A Python Backend Developer
 
 ---
 
@@ -37,10 +34,7 @@ I'm a professional Python backend developer who builds reliable, production-read
 
 - [Vault-Guard-AI](https://github.com/gaurangkodwani-svg/Vault-Guard-AI)  
   A comprehensive, dual-layer security application providing file/folder encryption, AI-driven password strength analysis, and anomaly detection.
-
-- [cambridge-ai](https://github.com/gaurangkodwani-svg/cambridge-ai)  
-  No README found at the repository root; repo contains frontend & backend and is deployed at: https://cambridge-ai-eight.vercel.app/
-
+  
 Explore all my public repositories: https://github.com/gaurangkodwani-svg?tab=repositories
 
 ---
@@ -62,7 +56,3 @@ I publish and maintain public repos on GitHub — see the repository list above.
 - Availability: Open for freelancing
 
 ---
-
-## Extras included
-- Dynamic GitHub Readme Stats and Top Languages cards (enabled)  
-- Professional tone and concise developer-focused layout
