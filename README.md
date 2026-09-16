@@ -5,7 +5,7 @@
 ---
 
 ## About me
-I'm a professional Python backend developer who builds reliable, production-ready APIs and data pipelines. I focus on clean, testable code, scalable architectures, and automation. Currently available for freelancing.
+I'm a professional Python backend developer who builds reliable, production-ready APIs and data pipelines. I focus on clean, testable code, scalable architectures, and automation. Currently available for freelance projects.
 
 - 🔭 Currently: Freelancing — available for backend & data projects  
 - 🌱 Always learning: reliability, performance, and automation workflows  
@@ -34,6 +34,9 @@ I'm a professional Python backend developer who builds reliable, production-read
 
 - [Vault-Guard-AI](https://github.com/gaurangkodwani-svg/Vault-Guard-AI)  
   A comprehensive, dual-layer security application providing file/folder encryption, AI-driven password strength analysis, and anomaly detection.
+
+- [RAG-SYSTEM](https://github.com/gaurangkodwani-svg/RAG-SYSTEM)  
+  A Python-based Retrieval-Augmented Generation system for intelligent document processing and contextual information retrieval.
   
 Explore all my public repositories: https://github.com/gaurangkodwani-svg?tab=repositories
 
@@ -47,7 +50,7 @@ Explore all my public repositories: https://github.com/gaurangkodwani-svg?tab=re
 ---
 
 ## Open source & community
-I publish and maintain public repos on GitHub — see the repository list above. If you want specific projects or contributions called out with longer descriptions, I can feature 3–6 pinned projects with expanded notes.
+I publish and maintain public repos on GitHub — see the repository list above. If you want specific projects or contributions called out with longer descriptions, I can feature 3–6 pinned projects.
 
 ---
 
